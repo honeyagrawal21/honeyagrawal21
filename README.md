@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Honey Agrawal</h1>
 <h3 align="center">A passionate Data Science Enthusiast from India</h3>
 <img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO_DiG4xAUqU0OrwJqu1Py4Tk3n2UUCtTN9Q&usqp=CAU">
+
 - 🔭 I’m currently working on **Machine Learning and Data Science**
 
 - 🌱 I’m currently learning **Machine Learning, Deep Learning, DSA**
